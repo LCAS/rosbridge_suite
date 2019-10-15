@@ -2,6 +2,17 @@
 Changelog for package rosbridge_suite
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* changed maintainer
+* Revert "changelogs"
+  This reverts commit bfc023af331ee980c558858fb03cfdb8db929a7a.
+* Revert "0.12.0"
+  This reverts commit 27426b196eb0f88ce26fecd52b0d07211b54071d.
+* 0.12.0
+* changelogs
+* Contributors: Marc Hanheide
+
 0.11.3 (2019-08-07)
 -------------------
 

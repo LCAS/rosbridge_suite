@@ -2,6 +2,20 @@
 Changelog for package rosapi
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* changed maintainer
+* Revert "changelogs"
+  This reverts commit bfc023af331ee980c558858fb03cfdb8db929a7a.
+* Revert "0.12.0"
+  This reverts commit 27426b196eb0f88ce26fecd52b0d07211b54071d.
+* 0.12.0
+* changelogs
+* Fix rosapi get_action_servers (`#429 <https://github.com/LCAS/rosbridge_suite/issues/429>`_)
+  The currently used proxy.get_topics function does not exists and results in the following error: `"AttributeError: 'module' object has no attribute 'get_topics'\n"`
+  This change uses the existing `get_topics_and_types` method to get a list of topics.
+* Contributors: Jørgen Borgesen, Marc Hanheide
+
 0.11.3 (2019-08-07)
 -------------------
 * Travis CI: Look for Python syntax errors and undefined name (`#420 <https://github.com/RobotWebTools/rosbridge_suite/issues/420>`_)
