@@ -2,8 +2,8 @@
 Changelog for package rosbridge_suite
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.12.0 (2019-10-15)
+-------------------
 * changed maintainer
 * Revert "changelogs"
   This reverts commit bfc023af331ee980c558858fb03cfdb8db929a7a.
