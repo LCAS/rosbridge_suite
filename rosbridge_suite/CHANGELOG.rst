@@ -2,9 +2,6 @@
 Changelog for package rosbridge_suite
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
-
 0.11.3 (2019-08-07)
 -------------------
 
