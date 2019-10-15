@@ -2,8 +2,8 @@
 Changelog for package rosapi
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.12.0 (2019-10-15)
+-------------------
 * Fix rosapi get_action_servers (`#429 <https://github.com/LCAS/rosbridge_suite/issues/429>`_)
   The currently used proxy.get_topics function does not exists and results in the following error: `"AttributeError: 'module' object has no attribute 'get_topics'\n"`
   This change uses the existing `get_topics_and_types` method to get a list of topics.

@@ -2,8 +2,8 @@
 Changelog for package rosbridge_server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.12.0 (2019-10-15)
+-------------------
 * Autobahn WebSocket server (`#426 <https://github.com/LCAS/rosbridge_suite/issues/426>`_)
   * Autobahn WebSocket server
   * Bring back explicit Twisted dependency
